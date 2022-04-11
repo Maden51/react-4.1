@@ -19,8 +19,6 @@ function ColorConverter() {
             } else {
                 setRgbColor('Ошибка');
             }
-        } else {
-            setRgbColor('Ошибка')
         }
     }
 
